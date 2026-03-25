@@ -4,6 +4,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "react-router dev",
+		"build": "vite build",
 		"typecheck": "react-router typegen && tsc --noEmit"
 	},
 	"dependencies": {
@@ -95,7 +96,4 @@
 	"overrides": {
 		"next-themes": "^0.3.0"
 	}
-}
-"scripts": {
-  "build": "vite build"
 }
