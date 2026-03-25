@@ -96,3 +96,6 @@
 		"next-themes": "^0.3.0"
 	}
 }
+"scripts": {
+  "build": "vite build"
+}
